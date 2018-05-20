@@ -3,6 +3,8 @@ Objects and interventions that demistify data privacy and digital security.
 
 #### About 
 
+![Why browser settings](https://github.com/jvallera/VTDataPrivacyProject/blob/master/images/IMG_6150.jpg)
+
 I started this project in March 2018 as an artist in resident at Generator VT. 
 
 This project explores methods that inform the public of the many risks online while educating them on how to best protect themselves through hands-on experiences. It is a mix of research and design. 
